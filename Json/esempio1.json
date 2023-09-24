@@ -1,0 +1,34 @@
+[
+    [
+        {
+            "level": 1,
+            "type": "goku"
+        },
+        {
+            "level": 2,
+            "type": "vegeta"
+        },
+        {
+            "level": 3,
+            "type": "trunks"
+        },
+        {
+            "level": 4,
+            "type": "gohan"
+        }
+    ],
+    [
+        {
+            "level": 1,
+            "type": "freezer"
+        },
+        {
+            "level": 2,
+            "type": "cell"
+        },
+        {
+            "level": 3,
+            "type": "majinbuu"
+        }
+    ]
+]

@@ -1,0 +1,22 @@
+[
+    [
+        {
+            "level": 4,
+            "type": "vegeta"
+        },
+        {
+            "level": 3,
+            "type": "trunks"
+        }
+    ],
+    [
+        {
+            "level": 4,
+            "type": "goku"
+        },
+        {
+            "level": 2,
+            "type": "gohan"
+        }
+    ]
+]
