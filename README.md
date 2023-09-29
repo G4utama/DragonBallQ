@@ -3,6 +3,8 @@ Project for the Object Oriented Programming course at the University of Padua.
 
 Simple video game inspired by the Dragon Ball series, done in C++ and Qt.
 
+<p><img src="Other/2/game.png" style="height:300px"></p>
+
 ## Requirements
 - C++ compiler
 - make, qmake
@@ -14,14 +16,15 @@ Simple video game inspired by the Dragon Ball series, done in C++ and Qt.
     ```
     git clone https://github.com/G4utama/DragonBallQ.git
     ```
-2. Compile the code and wait for it to finish:
-
+3. Compile the code and wait for it to finish:
+   
     ```
     cd DragonBallQ
     qmake
     make
     ```
-3. Run the game:
+5. Run the game:
+   
     ```
     ./DragonBallQ
     ```
