@@ -1,5 +1,7 @@
 # DragonBallQ
-Project for the Object Oriented Programming course at the University of Padua. Simple video game inspired by the Dragon Ball series done in C++ and Qt.
+Project for the Object Oriented Programming course at the University of Padua.
+
+Simple video game inspired by the Dragon Ball series, done in C++ and Qt.
 
 ## Requirements
 - C++ compiler
