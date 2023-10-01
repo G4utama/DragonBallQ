@@ -3,8 +3,6 @@ Project for the Object Oriented Programming course at the University of Padua.
 
 Simple video game inspired by the Dragon Ball series, done in C++ and Qt.
 
-<p><img src="Other/2/game.png" style="height:300px"></p>
-
 ## Requirements
 - C++ compiler
 - make, qmake
@@ -31,3 +29,11 @@ Simple video game inspired by the Dragon Ball series, done in C++ and Qt.
 
 ## Notes
 The program has been tested on Ubuntu, it is not guaranteed to work on other OS
+
+## Preview
+<p align="center">
+   <img src="Other/2/menu.png" style="width:auto;height:200px">
+   <img src="Other/2/game.png" style="width:auto;height:200px">
+   <img src="Other/2/end.png" style="width:auto;height:200px">
+</p>
+
